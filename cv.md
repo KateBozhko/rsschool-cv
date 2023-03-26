@@ -15,3 +15,14 @@ function disemvowel(str) {
   return str.split('').filter(element => !vowels.includes(element)).join('');
 }
 ```
+6. My GitHub projects:
+- https://github.com/KateBozhko/Perfume-shop
+- https://github.com/KateBozhko/realt_agency
+- https://github.com/KateBozhko/Recipes
+- https://github.com/KateBozhko/Find-a-friend
+- https://github.com/KateBozhko/WISH_LIST
+- https://github.com/KateBozhko/get_advice
+- https://github.com/KateBozhko/CHECKLIST
+7. Languages:
+- Russian (native)
+- English (intermediate)
